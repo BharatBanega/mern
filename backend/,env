@@ -1,2 +1,0 @@
-PORT=4000
-MONGO_URI=mongodb+srv://khaterdor:<password>@cluster0.1dhinmw.mongodb.net/?retryWrites=true&w=majority
